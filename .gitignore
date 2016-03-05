@@ -1,0 +1,11 @@
+# vim
+*.swp
+*.swo
+
+# cmake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+main
+Makefile
+
